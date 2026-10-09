@@ -1,0 +1,2 @@
+303969a53aa9e58e589a8e5b4371bc2cbb9425d8dc3f3e6711ce434c26f8ce8e  封面工作台-0.6.1-Mac-Apple芯片.dmg
+d9470a08ef0c96c428e4d8fc5eff2c6f8a62df626e0ab4d282a2e2a68f26c450  封面工作台-0.6.1-Windows-x64.7z

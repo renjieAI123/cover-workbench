@@ -1,2 +1,2 @@
-015931eb3e8249da3a92e16bfec4639cd9a090fe1fa3356398ac17151449c186  cover-workbench-0.6.1-Mac-AppleSilicon.dmg
-13e6d59ef3cf25e74dc897625a15abad83b049ba44a7e2d72cae34dd36796b77  cover-workbench-0.6.1-Windows-x64.7z
+92eaa09086811cd1ffcf9962849a7711d59f36a775dc03f03c59eeb3b19fd846  cover-workbench-0.6.1-Mac-AppleSilicon.dmg
+df8047f9934102e7655830d8fee1dd4238116d04eadc29cfd07d4fd48ac138de  cover-workbench-0.6.1-Windows-x64.7z

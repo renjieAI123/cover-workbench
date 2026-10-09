@@ -4,9 +4,9 @@
 
 ## 下载
 
-- [Mac Apple芯片](https://github.com/renjieAI123/cover-workbench/releases/download/v0.6.1/封面工作台-0.6.1-Mac-Apple芯片.dmg)
-- [Windows 64位](https://github.com/renjieAI123/cover-workbench/releases/download/v0.6.1/封面工作台-0.6.1-Windows-x64.7z)
-- 下载的是加密安装包，打开需要密码。请通过作者发布视频中说明的私信方式领取密码。
+- [Mac Apple芯片](https://github.com/renjieAI123/cover-workbench/releases/download/v0.6.1/cover-workbench-0.6.1-Mac-AppleSilicon.dmg)
+- [Windows 64位](https://github.com/renjieAI123/cover-workbench/releases/download/v0.6.1/cover-workbench-0.6.1-Windows-x64.7z)
+- 附件保留中文显示名，下载文件采用英文名。下载的是加密安装包，打开需要密码。请通过作者发布视频中说明的私信方式领取密码。
 
 ## 使用范围
 

@@ -8,6 +8,8 @@
 - [Windows 64位](https://github.com/renjieAI123/cover-workbench/releases/download/v0.6.1/cover-workbench-0.6.1-Windows-x64.7z)
 - 附件保留中文显示名，下载文件采用英文名。下载的是加密安装包，打开需要密码。请通过作者发布视频中说明的私信方式领取密码。
 
+请下载以 `.dmg`（Mac）或 `.7z`（Windows）结尾的安装附件。不要选择 GitHub 自动提供的 Source code（zip／tar.gz）；其中只有说明文件，不能安装软件。
+
 ## 使用范围
 
 免费提供，仅限个人非商业使用。禁止广告、带货、接单、平台分成、付费业务及其他直接或间接盈利用途；禁止转发密码、安装包或解压后的文件。
